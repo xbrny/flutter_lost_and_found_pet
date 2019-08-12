@@ -1,4 +1,4 @@
-# An app to announce missing or lost pet
+# A Flutter app to announce missing or lost pet
 *I created this app as part of my journey to learn Flutter, this app is intended for learning
 purpose only and not suitable for production*
 

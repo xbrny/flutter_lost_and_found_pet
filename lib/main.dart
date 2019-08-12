@@ -52,6 +52,7 @@ class App extends StatelessWidget {
         ),
       ],
       child: MaterialApp(
+        title: 'LostAndFound',
         theme: kBrandTheme,
         navigatorKey: _navigatorKey,
         initialRoute: Router.initialRoute,
