@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "674665226116",
+    "firebase_url": "https://lost-and-found-pet.firebaseio.com",
+    "project_id": "lost-and-found-pet",
+    "storage_bucket": "lost-and-found-pet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674665226116:android:b1217f00f163a18a",
+        "android_client_info": {
+          "package_name": "com.bitbani.lost_found_pet_prototype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674665226116-8br2sko2ca2j3aovl03ahmn9jre06f1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3U9nSQhwqOOI1FA9X0xdLE3HvqVsExR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674665226116-8br2sko2ca2j3aovl03ahmn9jre06f1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
