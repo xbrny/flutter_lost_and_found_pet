@@ -64,6 +64,7 @@ class _UserLoginScreenState extends State<UserLoginScreen> {
         decoration: InputDecoration(
           labelText: 'Password',
         ),
+        obscureText: true,
         validator: Validator.validatePassword,
         controller: loginModel.passwordController,
       );

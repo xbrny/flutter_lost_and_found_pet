@@ -18,11 +18,14 @@ class PostListItem extends StatelessWidget {
 
   Widget _getImage() {
     if (post.imageUrl != null && post.imageUrl.length > 0) {
-      return Image.network(
-        post.imageUrl.first,
-        fit: BoxFit.cover,
-        height: 150,
-        width: 170,
+      return Hero(
+        tag: 'post-image-${post.id}',
+        child: Image.network(
+          post.imageUrl.first,
+          fit: BoxFit.cover,
+          height: 150,
+          width: 170,
+        ),
       );
     } else {
       return Image.asset(
