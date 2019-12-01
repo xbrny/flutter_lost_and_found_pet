@@ -3,6 +3,8 @@
 purpose only and not suitable for production* **This app is best run on android since I'm
 developing on windows/linux machine**
 
+![](media/sample.gif)
+
 ## Functionality
 - View list of missing or found dog
 - Create announcement of missing or found pet and delete them
